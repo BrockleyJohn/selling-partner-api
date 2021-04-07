@@ -80,7 +80,7 @@ class Configuration
 
     /**
      * Debug file location (log to STDOUT by default)
-nnn     *
+     *
      * @var string
      */
     protected $tempFolderPath;
